@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔥 **What I Do**  
 - **Web Development:** Building responsive and clean web apps.  
-- **Competitive Programming:** Active on **leetcode**, solving problems using **C++** and **algorithms**.
+- **Competitive Programming:** Active on **leetcode**, coding ninjas solving problems using **C++** and **algorithms**.
 
   ---
 
